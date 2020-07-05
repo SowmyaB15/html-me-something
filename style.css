@@ -1,5 +1,7 @@
 .list-items {
   font-size: 25px;
+  padding-top: 12px;
+  padding-left: 2px;
 }
 #list-text {
   color : rgb(100, 7, 100);
@@ -23,7 +25,7 @@ p {
 }
 .image {
   margin-top: 10px; 
-  margin-left: 50px;
+  margin-left: 40px;
   width: 40%; 
   object-fit: contain; 
 }
