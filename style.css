@@ -18,6 +18,7 @@ h1 {
 p {
   color: black;
   font-size: 17px;
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
   margin-top: 25px;
   margin-bottom: 15px;
   margin-right: 50px;
@@ -31,4 +32,7 @@ p {
 }
 body {
   background-color: rgb(247, 239, 220);
+}
+nav {
+  font-family: cursive;
 }
